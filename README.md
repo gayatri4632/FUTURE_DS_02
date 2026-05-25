@@ -31,3 +31,17 @@ Analyze customer churn patterns and identify key factors affecting customer rete
 
 ## 💡 Conclusion
 This analysis helps businesses reduce customer churn and improve retention strategies.
+
+## 📊 Dashboard Preview
+
+### Full Dashboard
+![Dashboard](dashboard/ds2_dashboard.png)
+
+### Churn Analysis
+![Chart 1](dashboard/ds2_chart1.png)
+
+### Customer Segmentation
+![Chart 2](dashboard/ds2_chart2.png)
+
+### Retention Trends
+![Chart 3](dashboard/ds2_chart3.png)
