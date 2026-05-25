@@ -28,9 +28,9 @@ Analyze customer churn patterns and identify key factors affecting customer rete
 - Service usage impacts churn behavior
 
 ---
-
 ## 💡 Conclusion
-This analysis helps businesses reduce customer churn and improve retention strategies.
+
+The analysis revealed that customer churn is strongly influenced by contract type, tenure, and service preferences. Customers with shorter tenure and less commitment are more likely to leave. By improving customer engagement, encouraging long-term contracts, and providing targeted retention strategies, businesses can significantly improve customer loyalty and reduce churn.
 
 ## 📊 Dashboard Preview
 
