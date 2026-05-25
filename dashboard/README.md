@@ -1,9 +1,10 @@
 # 📊 Dashboard Section
 
-This folder contains visual representations of the analysis including:
+This folder contains visual representations of customer retention and churn analysis including:
 
-- Pivot charts
-- Excel dashboards
-- Business insights visualizations
+- Churn distribution
+- Contract type analysis
+- Customer tenure trends
+- Internet service usage patterns
 
-These visuals help in understanding patterns and decision-making insights clearly.
+These visualizations help identify churn drivers and customer retention opportunities.
