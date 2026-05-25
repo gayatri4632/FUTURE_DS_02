@@ -34,7 +34,7 @@ This analysis helps businesses reduce customer churn and improve retention strat
 
 ## 📊 Dashboard Preview
 
-### Full Dashboard
+### Customer Retention & Churn Analysis Dashboard
 ![Dashboard](dashboard/ds2_dashboard.png)
 
 ### Churn Analysis
